@@ -1,4 +1,8 @@
 # Superclass Learning with Representation Enhancement
+
+This is the official repo of the CVPR 2023 paper Superclass Learning with Representation Enhancement and its extension.
+The conference paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Superclass_Learning_With_Representation_Enhancement_CVPR_2023_paper.pdf
+
 We provide a training example of SCLRE. You can generate the reorganized CIFAR100-4 dataset and train it. After training, you can check the result with the help of tensorboard. Some main package versions used in the program:
 ```
 python: 3.8.12
